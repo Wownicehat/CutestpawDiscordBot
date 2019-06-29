@@ -14,3 +14,7 @@ To start go to the directory and type : `node .`<br/>
 
 # Command
 `^^cute` (you can change it in index.js:31
+
+# Credit
+Excuse me for my lack on knowledge this is my first real thing<br/>
+Thanks to Keeta for inspiring me to create a discord bot <3
